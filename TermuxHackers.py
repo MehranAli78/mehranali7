@@ -131,10 +131,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/TERMUXHACKERS ')
+            os.system('xdg-open https://www.youtube.com/TERMUXHACKERS ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/TERMUXHACKERS ')
+        os.system('xdg-open  https://www.youtube.com/TERMUXHACKERS ')
 
 def login():
 	os.system('clear')
